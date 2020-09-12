@@ -15,3 +15,7 @@ Implements a simple feed-forward neural network from scratch that utilizes the b
 ## RL_GridWorld.py 
 
 Builds a grid world with an agent that implements the Q-learning algorithm to navigate the gridworld with different objectives. The write-up compares the different policies: the agent goes through the world without going off the sidewalk, the agent goes through without hitting obstacles, and the agent goes through picking up litter. The objective is to combine all of these policies into some sub-optimal policy that considers all of them.
+
+## GP.ipynb
+
+Implementation of Guassian processes to model the motion data of a positional coordinate on a person's body. Ran a prediction using a global kernel and a local kerrnel and compared the results of the two in detail in the write-up!
