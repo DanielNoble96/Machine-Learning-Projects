@@ -10,7 +10,7 @@ Compared the results of using the k-nearest neighbours algorithm alone vs using 
 
 ## Backpropagation.py
 
-Implements a simple feed-forward neural network from scratch that utilizes the backprop algorithm to classify the MNIST dataset.
+Implements a simple feed-forward neural network from scratch that utilizes the backprop algorithm to classify the MNIST dataset. I wrote this when I was first learning about NN's so didn't know about nuances I could incorporate to try and improve the accuracy beyond the basic feedforward and backprop, but I achieved a test accurracy of 89% in much faster time than I did with the KNN algorithm, so I'm quite happy with it. My write-up analyzes it all in detail.
 
 ## RL_GridWorld.py 
 
